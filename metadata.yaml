@@ -1,0 +1,58 @@
+_repo: Encaustic-Or-Count-Caylus-s-method-of-painting-in-the-manner-of-the-ancients-To-which-is-adde__69846
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Caylus, Anne Claude Philippe, comte de
+    aliases:
+    - Caylus, A.-C.-P. (Anne-Claude-Philippe), comte de
+    - Lévis de Tubières-Grimoard, Anne-Claude-Philippe de Pestels de, comte de Caylus
+    - Levis de Tubieres-Grimoard, Anne-Claude-Philippe de Pestels de, comte de Caylus
+    - Pestels de Lévis de Tubières-Grimoard, Anne-Claude-Philippe de, comte de Caylus
+    - Tubières-Grimoard, Anne-Claude-Philippe de Pestels de Lévis de, comte de Caylus
+    - Tubières de Grimoard de Pestels de Lévi, Anne-Claude-Philippe de, comte de Caylus
+    - Thubières, Anne Claude Philippe de, comte de Caylus
+    birthdate: 1692
+    deathdate: 1765
+    gutenberg_agent_id: '49334'
+    url: http://www.gutenberg.org/2009/agents/49334
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anne_Claude_de_Caylus
+    - https://fr.wikipedia.org/wiki/Anne_Claude_de_Caylus
+creator:
+  author:
+    agent_name: Müntz, Jean-Henri
+    aliases:
+    - Muntz, Jean-Henri
+    - Müntz, Johann Heinrich
+    - Müntz, John Henry
+    - Müntz, J. H.
+    - Müntz, Jan Henryk
+    - Muentz, J. H.
+    birthdate: 1727
+    deathdate: 1798
+    gutenberg_agent_id: '55361'
+    url: http://www.gutenberg.org/2009/agents/55361
+description: ''
+gutenberg_issued: '2023-01-20'
+identifiers:
+  gutenberg: '69846'
+  lccn: '12002758'
+language: en
+pgterms:marc904: https://archive.org/details/encausticorcount00munt/page/n7/mode/2up
+pgterms:marc905: 20210615194716mntz
+pgterms:marc906: '1760'
+pgterms:marc907: EN
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'EN: Bible and Crown,1760.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encaustic painting'
+- !lcc 'ND'
+- GITenberg
+title: "Encaustic: Or, Count Caylus's method of painting in the manner of the ancients.\r\
+  \nTo which is added a sure and easy method for fixing of crayons"
+url: http://www.gutenberg.org/ebooks/69846
