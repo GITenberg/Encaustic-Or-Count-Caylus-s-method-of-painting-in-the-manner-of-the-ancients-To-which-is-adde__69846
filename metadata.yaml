@@ -18,6 +18,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Anne_Claude_de_Caylus
     - https://fr.wikipedia.org/wiki/Anne_Claude_de_Caylus
+covers:
+- cover_type: archival
+  image_path: 69846-h/images/cover.jpg
 creator:
   author:
     agent_name: Müntz, Jean-Henri
@@ -33,6 +36,8 @@ creator:
     gutenberg_agent_id: '55361'
     url: http://www.gutenberg.org/2009/agents/55361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69846#Encaustic-Or-Count-Caylus-s-method-of-painting-in-the-manner-of-the-ancients-To-which-is-adde_
 gutenberg_issued: '2023-01-20'
 identifiers:
   gutenberg: '69846'
